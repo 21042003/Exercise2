@@ -20,5 +20,5 @@ void main() {
   } else {
     print("Số điện không hợp lệ!");
   }
-  print("Số tiền điện phải trả: ${monney} đồng");
+  print("Số tiền điện phải trả: ${monney} VND");
 }
